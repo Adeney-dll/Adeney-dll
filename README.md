@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Adene Daniel</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
-<img align="center" alt="coding" width="400" src=https://cdn.i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif>
+<img align="center" alt="coding" width="400" src=https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adeney-dll&label=Profile%20views&color=0e75b6&style=flat" alt="adeney-dll" /> </p>
 
