@@ -1,14 +1,17 @@
-# Hi there, I'm Adene Daniel but I usually use the name tag Adeney-dll! 👋
+# Hello friend, I'm Adene Daniel but I usually use the name tag Adeney-dll! 👾
 
-I'm a passionate developer with a keen interest in learning and exploring new technologies. I enjoy solving complex problems and working on innovative projects. Below is a bit more about me and what I do.
+I'm an aspiring system software developer with a deep interest in backend development and exploring new technologies involved. I prioritize problem solving, scalability, and efficient in my process. When i'm not building to learn and learning to build, I engage in sketch artistry and read star wars comics, below are a few more tibits about me.
 
-## 🚀 About Me
+## 🕸 Connect with me
+<a href="philocity@proton.me" target="_blank">
+    <img src="https://clean.email/user/pages/best-free-email-service-providers/proton-logo-160-2x.jpg" height="24" alt="email logo"/>
+  </a>
 
-<!---🌱 I’m currently learning **[insert technology or language you are learning]**
-- 👯 I’m looking to collaborate on **open-source projects**
-- 💬 Ask me about **Python, JavaScript, or any other technology you're comfortable with**
-- 📫 How to reach me: **[your email or social media handle]**
-- ⚡ Fun fact: **[Insert a fun fact about yourself]**-->
+## 🚀 As a student programmer ;
+
+- 🐛 I’m currently learning **Javascript along with data structures and algorithms** 
+<!--- 👯 I’m looking to collaborate on **open-source projects**-->
+- 💬 Ask me about **JavaScript, or any other technology you're comfortable with**
 
 ## 🛠 Tech Stack
 
@@ -23,10 +26,6 @@ I'm a passionate developer with a keen interest in learning and exploring new te
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeney-dll&layout=compact&theme=radical)
 
-## 🔗 Connect with Me
-
-- [Instagram](https://www.linkedin.com/in/Adeney-dll)
-- [Twitter](https://twitter.com/Adeney-dll)
 
 <!--## 📝 Recent Projects
 
@@ -40,3 +39,4 @@ I'm a passionate developer with a keen interest in learning and exploring new te
 Adeney-dll/Adeney-dll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
