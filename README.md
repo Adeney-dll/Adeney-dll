@@ -1,30 +1,44 @@
-# Hello friend, I'm Adene Daniel but I usually use the name tag Adeney-dll! 👾
+# Dani'yyel Fatuyi-Adene
+### Bioinformatician | Computational Biologist | Data Analysis
 
-I'm an aspiring system software developer with a deep interest in backend development and exploring new technologies involved. I prioritize problem solving, scalability, and efficient in my process. When i'm not building to learn and learning to build, I engage in sketch artistry and read star wars comics, below are a few more tibits about me.
+> Executing *in-silico* analysis, genomic data processing, and structural modeling to bypass biological friction and design actionable biomedical solutions.
 
-## 🕸 Connect with me
-<a href="philocity@proton.me" target="_blank">
-    <img src="https://clean.email/user/pages/best-free-email-service-providers/proton-logo-160-2x.jpg" height="24" alt="email logo"/>
-  </a>
+---
 
-## 🚀 As a student programmer ;
+### 🧬 Current Operational Status
 
-- 🐛 I’m currently learning **Javascript along with data structures and algorithms** 
-<!--- 👯 I’m looking to collaborate on **open-source projects**-->
-- 💬 Ask me about **JavaScript, or any other technology you're comfortable with**
+* 🔬 **Database Curation:** Managing verified organism-specific Antimicrobial Resistance (AMR) tools and database entries across ESKAPE pathogens for the **AMRx Hub**.
+* 🧬 **Research Focus:** Structural analysis and mRNA vaccine candidate design utilizing reverse vaccinology pipelines.
+* 🌱 **Skill Acquisition:** Expanding computational architecture (Python, Linux CLI, Biopython) and advancing towards full professional fluency in French.
 
-## 🛠 Tech Stack
+---
 
-- **Languages:** Python, JavaScript, Golang, CSS, HTML, Typescript
-- **Frameworks:** Angular
-- **Tools:** Git, Docker, Node
-- **Databases:** MySQL, MongoDB
+### ⚙️ Computational Stack
 
-## 📈 GitHub Stats
+**Languages & Scripting**
+* Python (Data analysis, Biopython logic)
+* Linux / Bash Command Line (Pipeline automation)
+* Markdown (Scientific documentation)
 
-![Adeney-dll's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adeney-dll&show_icons=true&theme=radical)
+**Bioinformatics & Structural Tools**
+* Genomic Analysis & Sequence Alignment (NCBI BLAST, FASTA handling)
+* Epitope Mapping & Antigenicity Prediction (IEDB, VaxiJen)
+* Structural Modeling (SWISS-MODEL workflows)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeney-dll&layout=compact&theme=radical)
+---
+
+<!--### 📂 Pipeline Architecture (Active Projects)
+
+* [Link to future Repo] **`ESKAPE-Resistance-Profiles`**: *In-silico* identification of AMR genes and structural resistance mechanisms.
+* [Link to future Repo] **`Reverse-Vaccinology-Pipeline`**: Comprehensive computational workflow and structural documentation for novel mRNA vaccine candidates.
+
+---
+
+<!--### 📡 Transmission Frequencies
+
+* **Digital CV / Portfolio:** [Insert your FlowCV or Carrd landing page link here]
+* **Direct Terminal:** [Insert your professional email address here]
+* **ORCID iD:** [Insert your ORCID link here]-->
 
 
 <!--## 📝 Recent Projects
