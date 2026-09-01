@@ -25,9 +25,9 @@
 * Epitope Mapping & Antigenicity Prediction (IEDB, VaxiJen)
 * Structural Modeling (SWISS-MODEL workflows)
 
----
+<!---
 
-<!--### 📂 Pipeline Architecture (Active Projects)
+### 📂 Pipeline Architecture (Active Projects)
 
 * [Link to future Repo] **`ESKAPE-Resistance-Profiles`**: *In-silico* identification of AMR genes and structural resistance mechanisms.
 * [Link to future Repo] **`Reverse-Vaccinology-Pipeline`**: Comprehensive computational workflow and structural documentation for novel mRNA vaccine candidates.
