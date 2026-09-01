@@ -24,8 +24,8 @@
 * Genomic Analysis & Sequence Alignment (NCBI BLAST, FASTA handling)
 * Epitope Mapping & Antigenicity Prediction (IEDB, VaxiJen)
 * Structural Modeling (SWISS-MODEL workflows)
-
-<!---
+<!--
+---
 
 ### 📂 Pipeline Architecture (Active Projects)
 
