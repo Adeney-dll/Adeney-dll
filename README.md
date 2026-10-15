@@ -7,9 +7,8 @@
 
 ### 🧬 Current Operational Status
 
-<!--* 🔬 **Database Curation:** Managing verified organism-specific Antimicrobial Resistance (AMR) tools and database entries across ESKAPE pathogens for the **AMRx Hub**.-->
 * 🧬 **Research Focus:** Structural analysis and mRNA vaccine candidate design utilizing reverse vaccinology pipelines.
-* 🌱 **Skill Acquisition:** Expanding computational architecture (Python, Linux CLI, Biopython) <!-- and advancing towards full professional fluency in French and the creative arts. -->
+* 🌱 **Skill Acquisition:** Expanding computational architecture (Python, Linux CLI, Biopython, R) <!-- and advancing towards full professional fluency in French and the creative arts. -->
 
 ---
 
@@ -19,6 +18,7 @@
 * Python (Data analysis, Biopython logic)
 * Linux / Bash Command Line (Pipeline automation)
 * Markdown (Scientific documentation)
+* R
 
 **Bioinformatics & Structural Tools**
 * Genomic Analysis & Sequence Alignment (NCBI BLAST, FASTA handling)
