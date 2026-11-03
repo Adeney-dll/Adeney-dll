@@ -8,7 +8,7 @@
 ### 🧬 Current Operational Status
 
 * 🧬 **Research Focus:** Structural analysis and mRNA vaccine candidate design utilizing reverse vaccinology pipelines.
-* 🌱 **Skill Acquisition:** Expanding computational architecture (Python, Linux CLI, Biopython, R) <!-- and advancing towards full professional fluency in French and the creative arts. -->
+* 🌱 **Skill Acquisition:** Expanding computational architecture (Python, Linux CLI, Biopython, R)and advancing towards full professional fluency in French and the creative arts.
 
 ---
 
