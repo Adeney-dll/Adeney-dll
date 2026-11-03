@@ -1,4 +1,4 @@
-# Dani'yyel Fatuyi-Adene
+<!--# Dani'yyel Fatuyi-Adene
 ### Bioinformatician | Computational Biologist | Data Analysis
 
 > Executing *in-silico* analysis, genomic data processing, and structural modeling to bypass biological friction and design actionable biomedical solutions.
@@ -23,7 +23,7 @@
 **Bioinformatics & Structural Tools**
 * Genomic Analysis & Sequence Alignment (NCBI BLAST, FASTA handling)
 * Epitope Mapping & Antigenicity Prediction (IEDB, VaxiJen)
-* Structural Modeling (SWISS-MODEL workflows)
+* Structural Modeling (SWISS-MODEL workflows)-->
 <!--
 ---
 
